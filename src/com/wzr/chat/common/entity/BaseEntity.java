@@ -6,7 +6,7 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
 
 import com.alibaba.fastjson.annotation.JSONField;
 
-public class BaseEntity {
+public class BaseEntity e{
 	
 	 private static final long serialVersionUID = 1L;
 
